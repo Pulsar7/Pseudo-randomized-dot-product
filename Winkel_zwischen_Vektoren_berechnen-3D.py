@@ -1,3 +1,11 @@
+#
+#by Pulsar
+#Year: 12021
+#Date: 24.05.12021
+#Twitter: https://twitter.com/7Pulsar
+#Website: https://mein-wissen.herokuapp.com
+#Python-Version: 3.8.2
+#
 import os,math
 
 os.system("cls") #Windows
