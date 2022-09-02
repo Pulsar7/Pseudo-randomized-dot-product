@@ -12,7 +12,7 @@
 
 ## Explanation
 
-Using the Java module "Math", pseudo-randomized vectors are generated in 2-dimensional space and the scalar product is formed from two vectors.
+Using the module "Math", pseudo-randomized vectors are generated in 2-dimensional space and the scalar product is formed from two vectors.
 
 ## ToDo
 
