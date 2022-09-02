@@ -40,7 +40,7 @@ public class random_vector_product {
     }
 
     public static void main(String[] args) {
-        System.out.println(CalculateDotProduct(GenerateVectors(10)).toString());
+        System.out.println(CalculateDotProduct(GenerateVectors(10)).toString()); // The number can be changed individually 
         /*for (String i : vectors) {
             System.out.println(i);
         }*/
