@@ -2,7 +2,7 @@
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg?style=flat-square)](https://github.com/Pulsar7/Pseudo-randomized-dot-product/releases)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/file-icon-vectors.svg?style=social)](https://twitter.com/SevenPulsar)
 
-# Pseudo-randomized dot-product (2D)
+# Pseudo-randomized dot-product (2-Dimensional vectors)
 
 ## :pushpin: Table of contents
 
